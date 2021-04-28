@@ -1,9 +1,22 @@
 <h1 align="center">Hi 👋, I'm Ignace Boudou</h1>
 <h3 align="center">A curious FullStack developer trying to find a new challenge.</h3>
 
-- 🔭 I’m currently working on **AgroPlace**
 
 
+<h3>Three things you should to know about me</h3>
+
+```js
+var personalInfo = { name: `Ignacio Boudou`, role: `full-stack engineer`, motivation: `learning`, objective: `challenge`, newTech: `kotlin`};
+
+let myData = `I'm a curios person looking for ${personaInfo.objective} right now and I want to work in an enviorment full of ${personaInfo.motivation} as
+                a ${personaInfo.role} to expand my horizon in software engineering and learning new technologies.
+                Ive recently picked my interest with ${personaInfo.newTech} so i might learn it once i start working as a developer.`;
+
+const desire = `I'd like to participate in projects that have an impact on the world, to
+                 change things for good through utilizing software advantages.`;
+
+console.log( `Start engines, energy is powered by: `personalInfo.objective);
+```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
