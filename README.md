@@ -3,7 +3,7 @@
 
 
 
-<h3>Three things you should to know about me</h3>
+<h3>Couple things you should to know about me</h3>
 
 ```js
 var personalInfo = { name: `Ignacio Boudou`, role: `full-stack engineer`, motivation: `learning`, objective: `challenge`, newTech: `kotlin`};
