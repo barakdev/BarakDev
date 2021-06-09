@@ -2,7 +2,7 @@
 <h3 align="center">A curious FullStack developer trying to find a new challenge.</h3>
 
 
-
+https://www.codewars.com/users/barakdev/badges/large
 <h3>Couple things you should to know about me</h3>
 
 ```js
